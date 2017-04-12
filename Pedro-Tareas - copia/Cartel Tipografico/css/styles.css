@@ -1,0 +1,128 @@
+.home {    
+    margin: 30px auto 30px auto;
+}
+
+.home a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 0.7em;
+    margin-top: 0px;
+    text-decoration: none;
+    color: #CFD1A3;
+}
+
+.home a:hover{
+    color: #CFD1A3;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 8px;
+}
+
+.principal {
+         height: 400px;							
+         margin: 0 auto 200px; 0 auto ;
+         padding: 15px;
+         width:  250px;
+         background-image: url(../img/nyaw_orchestra_3.jpg);
+         background-repeat: no-repeat;
+         background-size: auto 105%;
+         background-position: 50%;
+}
+
+#titulo_1 {
+         margin: auto;
+         padding: 0px;
+         font-family: 'Roboto', sans-serif;
+         color: rgba(255, 255, 255, 0.5);
+         font-size: 3em;
+         text-align: left;
+         margin-left: 0px;
+         line-height: 30px;
+         position: absolute;
+         top: 245px;
+
+
+}
+
+#titulo_2 {
+         margin: auto;
+         padding: 0px;
+         font-family: 'Roboto', sans-serif;
+         color: rgba(255, 255, 255, 0.7);
+         font-size: 3em;
+         text-align: left;
+         margin-left: 0px;
+         line-height: 30px;
+         position: absolute;
+         top: 272px;
+
+
+}
+
+#titulo_3 {
+         margin: auto;
+         padding: 0px;
+         font-family: 'Roboto', sans-serif;
+         color: rgba(255, 255, 255, 1);
+         font-size: 3em;
+         text-align: left;
+         margin-left: 0px;
+         line-height: 30px;
+         position: absolute;
+         top: 300px;
+
+
+}
+
+#texto_1 {
+         margin: 0px 0px 0px;
+         padding: 0px;
+         font-family: 'Roboto', sans-serif;
+         color:#FFF;
+         font-size: 3px;
+         text-align: left;
+         margin-left: 0px;
+         position: absolute;
+         line-height: 4px;
+         top: 170px;
+         left: 50%;
+         
+}
+
+#texto_2 {
+         margin: 0px 0px 0px;
+         padding: 0px;
+         font-family: 'Roboto', sans-serif;
+         color:#FFF;
+         font-size: 3px;
+         text-align: left;
+         margin-left: 0px;
+         position: absolute;
+         line-height: 4px;
+         top: 170px;
+         left: 55%;
+         
+}
+
+
+#copy {
+         margin: 0px 0px 0px;
+         margin-left: 0px;
+         padding-top: : 0px;
+         font-family: 'Roboto', sans-serif;
+         color:#FFF;
+         font-size: 3px;
+         text-align: left;
+         position: absolute;
+         top: 570px;
+         left: 41%;
+
+         
+      }
+
+/**{
+ border: 1px solid rgb(0, 0, 0);
+} */

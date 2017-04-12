@@ -1,0 +1,79 @@
+.home {    
+    margin: 30px auto 30px auto;
+}
+
+.home a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 0.7em;
+    margin-top: 0px;
+    text-decoration: none;
+    color: #CFD1A3;
+}
+
+.home a:hover{
+    color: #CFD1A3;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 8px;
+}
+
+
+.principal {
+         background:#ac0701;
+         height: 400px;							
+         margin: 0 auto 200px; 0 auto ;
+         padding: 15px;
+         width:  250px;
+         background-image: url(../img/dinosaurio.png);
+         background-repeat: no-repeat;
+         background-size: auto 105%;
+         background-position: 50%;
+         
+}
+
+#titulo {
+         margin: auto;
+         padding: 0px;
+         font-family: 'Lemon', cursive;
+         color:#000;
+         font-size: 2em;
+         text-align: right;
+         margin-left: 0px;
+         
+
+}
+
+#autores {
+         margin: 0px 0px 0px;
+         padding: 0px;
+         font-family: 'Droid Serif', serif;
+         color:#000;
+         font-size: 0.7em;
+         text-align: center;
+         margin-left: 0px;
+         position: absolute;
+         top: 525px;
+         left: 41.5%;
+}
+
+#copy {
+         margin: 0px 0px 0px;
+         padding-top: : 0px;
+         font-family: 'arial', serif;
+         color:#000;
+         font-size: 0.5em;
+         text-align: center;
+         position: absolute;
+         top: 552px;
+         left: 47%;
+
+         
+      }
+
+/**{
+ border: 1px solid rgb(0, 0, 0);
+}+/

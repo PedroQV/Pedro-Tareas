@@ -1,0 +1,55 @@
+.home {    
+    margin: 30px auto 30px auto;
+}
+
+.home a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 0.7em;
+    margin-top: 0px;
+    text-decoration: none;
+    color: #CFD1A3;
+}
+
+.home a:hover{
+    color: #CFD1A3;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 8px;
+}
+
+.principal {
+         background:#ac0701;
+         height: 400px;							
+         margin: 0 auto 200px; 0 auto ;
+         padding: 15px;
+         width:  250px;
+}
+
+#scaja1 {
+         background:#cf7b01;
+         height: 150px;
+         margin: auto;
+         padding: 0px;
+         width: 250px;
+
+}
+
+#scaja2 {
+         background:#fbf6bc;
+         height: 80px;
+         margin: 15px 0px 0px;
+         padding: 0px;
+         width: 250px;
+}
+
+#scaja3 {
+         background:#c5548c;
+         height: 140px;
+         margin: 15px 0px 0px;
+         padding: 0px;
+         width: 250px;
+}
