@@ -1,0 +1,42 @@
+.home {    
+    margin: 30px auto 30px auto;
+}
+
+.home a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 0.7em;
+    margin-top: 0px;
+    text-decoration: none;
+    color: #CFD1A3;
+}
+
+.home a:hover{
+    color: #CFD1A3;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 8px;
+}
+.principal {
+    height: 200px;                         
+    margin: 0px auto 0px; 0 auto ;
+    padding: 15px;
+    width:  100px;
+    align-content:  center;
+    
+}
+
+#Logo {
+    height: 400px;                         
+    margin: 0px auto 0px; 0px auto ;
+    padding: 0px;
+    width:  200px;
+     position: absolute;
+         top: 100px;
+         left: 42%;
+
+}
+
